@@ -1,9 +1,12 @@
 # SubscriptionSystem
 # ADIDAS NodeJS Backend Challenge
-Implementation to resolve the Adisas nodejs backend challenge
+Implementation to resolve the Adidas nodejs backend challenge
+
+# Node modules
+Build the node_modules folder by going to the folder project and run node_modules.bat
 
 # Running
-Execute app.bat which launches node index.js
+Run the app.bat, which is prepared for running node index.js
 Then type localhost:3000 in a browser to launch an example web page
 
 # API documentation
